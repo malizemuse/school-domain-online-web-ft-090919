@@ -28,4 +28,6 @@ puts school.roster
 
 school.add_student("Lexi", 12)
 
+puts school.roster
+
 
