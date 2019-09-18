@@ -22,7 +22,7 @@ end
 
 # TEST CODE 
 
-School = school.new("Lexi High")
+school = School.new("Lexi High")
 
 puts school.roster
 
