@@ -22,6 +22,7 @@ end
 
 # TEST CODE 
 
+School = .initialize("Lexi High")
 
 
 
