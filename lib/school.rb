@@ -27,4 +27,3 @@ School = school.new("Lexi High")
 
 
 
-
