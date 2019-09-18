@@ -22,7 +22,7 @@ end
 
 # TEST CODE 
 
-School = .initialize("Lexi High")
+School = school.new("Lexi High")
 
 
 
