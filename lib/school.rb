@@ -24,6 +24,8 @@ end
 
 School = school.new("Lexi High")
 
+puts school.roster
+
 
 
 
