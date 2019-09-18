@@ -26,6 +26,6 @@ School = school.new("Lexi High")
 
 puts school.roster
 
-
+school.add_student("Lexi", 12)
 
 
